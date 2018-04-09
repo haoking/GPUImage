@@ -22,6 +22,12 @@
 	<string>????</string>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
+    <key>NSCameraUsageDescription</key>
+    <string>abc</string>
+    <key>NSPhotoLibraryAddUsageDescription</key>
+    <string>abc</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>abc</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>UIPrerenderedIcon</key>
